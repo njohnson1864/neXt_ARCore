@@ -1,0 +1,63 @@
+newmtl Overlap
+Kd 1.0000 0.6157 0.0000
+illum 0
+
+newmtl Gap
+Kd 0.0549 0.8196 0.2706
+illum 0
+
+newmtl Wrinkle
+Kd 0.0157 0.0000 1.0000
+illum 0
+
+newmtl Twist
+Kd 0.5333 0.0 0.1059
+illum 0
+
+newmtl Fold
+Kd 0.9686 0.9765 0.6471
+illum 0
+
+newmtl MissingTow
+Kd 0.0 0.6588 0.9529
+illum 0
+
+newmtl FOD
+Kd 1.0000 0.0000 1.0000
+illum 0
+
+newmtl SurfaceSeparation
+Kd 0.6000 0.6000 0.4000
+illum 0
+
+newmtl LooseTow
+Kd 0.2000 0.4000 0.0000
+illum 0
+
+newmtl Pucker
+Kd 0.0510 1.0000 0.0000
+illum 0
+
+newmtl Bridging
+Kd 0.5490 1.0000 0.9843
+illum 0
+
+newmtl Shredder
+Kd 0.5569 0.5373 0.560784314
+illum 0
+
+newmtl PositionError
+Kd 0.8000 0.6000 0.0000
+illum 0
+
+newmtl BoundaryCoverage
+Kd 0.8667 0.6353 0.9176
+illum 0
+
+newmtl Splice
+Kd 0.9255 0.1098 0.1412
+illum 0
+
+
+
+

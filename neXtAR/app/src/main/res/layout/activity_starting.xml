@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#73000A"
+    tools:context=".StartingActivity">
+
+    <TextView
+        android:id="@+id/ARtextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="250dp"
+        android:fontFamily="sans-serif-thin"
+        android:text="@string/augmented_reality"
+        android:textColor="#FFFFFF"
+        android:textSize="34sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/AFPtextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="30dp"
+        android:fontFamily="sans-serif-light"
+        android:text="@string/afp_inspection_and_rework"
+        android:textColor="#FFFFFF"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <ImageView
+        android:id="@+id/ar_logo_imageView"
+        android:layout_width="219dp"
+        android:layout_height="348dp"
+        android:contentDescription="@string/ar_logo"
+        app:layout_constraintBottom_toTopOf="@+id/AFPtextView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ARtextView"
+        app:srcCompat="@drawable/ar_logo" />
+
+    <ImageView
+        android:id="@+id/nextImageView"
+        android:layout_width="216dp"
+        android:layout_height="175dp"
+        android:layout_marginBottom="12dp"
+        android:contentDescription="@string/next_mcnair_logo"
+        app:layout_constraintBottom_toTopOf="@+id/ARtextView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:srcCompat="@drawable/nextmcnair_logo" />
+</androidx.constraintlayout.widget.ConstraintLayout>

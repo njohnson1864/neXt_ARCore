@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">neXt AR</string>
+    <string name="next">neXt</string>
+    <string name="augmented_reality">Augmented Reality</string>
+    <string name="afp_inspection_and_rework">AFP Inspection and Rework</string>
+    <string name="ar_logo">ar logo</string>
+    <string name="next_mcnair_logo">next mcnair logo</string>
+    <string name="online">Online</string>
+    <string name="phone_files">Phone Files</string>
+    <string name="computer">Computer</string>
+    <string name="select_a_source_for_importing_model">Select a Source for Importing Model</string>
+    <string name="select_your_online_repository">Select Your Online Repository</string>
+    <string name="github">GitHub</string>
+    <string name="onedrive">OneDrive</string>
+    <string name="copy_paste_model_url_here">Copy/Paste model URL here.</string>
+
+    <string name="use_model_url">Use Model URL</string>
+    <string name="copy_paste_model_url">Copy/Paste model URL</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="click_to_access_files">Click to Access files</string>
+    <string name="begin_ar_activity">Begin AR Activity</string>
+    <string name="instructions_for_github_upload">Copy and paste URL from GitHub sample .glb fileson line and click Use Model URL button below. OneDrive is not up and running yet.</string>
+    <string name="source_path_here">Source path here</string>
+    <string name="test_aruco">Test Aruco</string>
+    <string name="poop">poop</string>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Owner/AndroidStudioProjects/neXtAR/app/src/main/res/drawable/nextappicon_foreground.xml" value="0.2755208333333333" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects/neXtAR/app/src/main/res/layout/activity_sceneform_arfor_afp.xml" value="0.2105978260869565" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects/neXtAR/app/src/main/res/layout/activity_sceneform_aug_images_test.xml" value="0.3671875" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects/neXtAR/app/src/main/res/layout/activity_starting.xml" value="0.2105978260869565" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects/neXtAR/app/src/main/res/layout/activity_test_aruco.xml" value="0.25" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects/neXtAR/app/src/main/res/layout/activity_trash.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
